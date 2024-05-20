@@ -1,4 +1,4 @@
-#Data-Science-and-ML
+# 7-Data-Science-and-ML
 
 This repository includes practice files I have done throughout the course.
 
